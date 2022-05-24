@@ -1,0 +1,7 @@
+1º) Descomprimir el archivo: TextosInGame.amx en la carpeta: TuServer/filterscripts
+
+2º) Abrir el archivo server.cfg en la carpeta de tu server y agregar: TextosInGame en filterscripts
+
+3º) Guardar y reiniciar el server.
+
+- Hecho Por: HERMES
